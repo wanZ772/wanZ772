@@ -2,7 +2,7 @@
 - 👀 food person
 - 🌱 I’m currently developing web app and mobile app
 - 📫 How to reach me:
-- Instagram: https://www.instagram.com/wan.__________
+- Instagram: "https://www.instagram.com/wan.__________"
 - YouTube: https://www.youtube.com/c/MuhammadNajwan
 - TikTok: wanz350
 
