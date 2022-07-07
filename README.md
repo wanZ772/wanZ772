@@ -4,7 +4,8 @@
 - 📫 How to reach me:
 - Instagram: wan.__________
 - YouTube: https://www.youtube.com/c/MuhammadNajwan
-- TikTok: wanz350
+- TikTok: wan370Z
+- Play guitar (metal genre)
 
 <!---
 wanZ772/wanZ772 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
