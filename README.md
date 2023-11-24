@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 - Instagram: wan.__________
 - YouTube: https://www.youtube.com/c/MuhammadNajwan
-- TikTok: wan370Z
+- TikTok: wan._77
 - Play guitar (metal genre)
 
 <!---
