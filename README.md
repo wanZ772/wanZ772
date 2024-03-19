@@ -8,13 +8,14 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Streameo](https://streameo.onrender.com)
+- 🔭 I’m currently working on [Streameo Project - Android music streaming app](https://streameo.onrender.com)
 
 - 🌱 I’m currently learning **Mobile app, web app, backend development**
 
 - 👯 Also check on [Masjid Locator](https://masjid.onrender.com)
 
-- 🤝 And this project too [Natural Hazard Forecast](https://wanz772.github.io/natural_hazard)
+- 🤝 And this project too [Natural Hazard Forecast - Malaysian natural hazard forecast web app](https://wanz772.github.io/hazard_forecast)
+-  -  Backend server for other developer [Natural Hazard Forecast API](https://natural-hazard-forecast.onrender.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wanz772](https://github.com/wanz772)
 
