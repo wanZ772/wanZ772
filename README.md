@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wanz</h1>
 <image align="center" src="https://www.pngkey.com/png/full/765-7653840_euclidean-vector-angle-forest-night-free-frame-clipart.png"></image>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wanz772&label=Profile%20views&color=0e75b6&style=flat" alt="wanz772" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wanz772&label=Profile%20views&color=0e75b6&style=flat" alt="wanz772" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanz772" alt="wanz772" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanz772" alt="wanz772" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
