@@ -12,10 +12,12 @@
 
 - 🌱 I’m currently learning **Mobile app, web app, backend development**
 
-- 👯 Also check on [Masjid Locator](https://masjid.onrender.com)
+- 🔭 Also check on [Masjid Locator Project - A backend server for searching near by mosque(s)](https://masjid.onrender.com)
 
-- 🤝 And this project too [Natural Hazard Forecast - Malaysian natural hazard forecast web app](https://wanz772.github.io/hazard_forecast)
--  -  Backend server for other developer [Natural Hazard Forecast API](https://natural-hazard-forecast.onrender.com)
+- 🔭 And this project too [Natural Hazard Forecast - Malaysian natural hazard forecast web app](https://wanz772.github.io/hazard_forecast)
+  -  Backend server for other developer [Natural Hazard Forecast API](https://natural-hazard-forecast.onrender.com)
+
+- 🔭 Also [Resistor Calculator - A boring project I made just to calculate resistance](https://wanz772.github.io)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wanz772](https://github.com/wanz772)
 
