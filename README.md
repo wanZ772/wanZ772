@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wanz</h1>
+<image align="center" src="https://www.pngkey.com/png/full/765-7653840_euclidean-vector-angle-forest-night-free-frame-clipart.png"></image>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanz772&label=Profile%20views&color=0e75b6&style=flat" alt="wanz772" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanz772" alt="wanz772" /></a> </p>
@@ -9,9 +10,9 @@
 
 - 🌱 I’m currently learning **Mobile app, web app, backend development**
 
-- 👯 I’m currently working on [Masjid Locator](https://masjid.onrender.com)
+- 👯 Also check on [Masjid Locator](https://masjid.onrender.com)
 
-- 🤝 I’m currently working on [Natural Hazard Forecast](https://wanz772.github.io/natural_hazard)
+- 🤝 And this project too [Natural Hazard Forecast](https://wanz772.github.io/natural_hazard)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wanz772](https://github.com/wanz772)
 
