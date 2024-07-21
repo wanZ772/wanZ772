@@ -1,5 +1,5 @@
 <audio src="https://firebasestorage.googleapis.com/v0/b/mymusicz.appspot.com/o/Sepi%20Sekuntum%20Mawar%20Merah.mp3?alt=media&token=ce6f0acb-cfe3-4cac-8220-d0deee8fcbc4" autoplay="true" hidden="false"></audio>
-<h1 align="center">Hi 👋, I'm AAAARGHHHHHHHH</h1>
+<h1 align="center">Hi 👋, I'm Code</h1>
 <h3 align="center">Most of projects are in private repo</h3>
 <image align="center" src="https://www.pngkey.com/png/full/765-7653840_euclidean-vector-angle-forest-night-free-frame-clipart.png"></image>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wanz772&label=Profile%20views&color=0e75b6&style=round" alt="wanz772" /> </p>
