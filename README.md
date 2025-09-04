@@ -6,8 +6,11 @@
 <img src="https://komarev.com/ghpvc/?username=mnwanx&label=Profile%20views%20(New)&color=0e75b6&style=round" alt="mnwanx" />
 </p>
 
-<h3 align="center">I asked for nothing but to be set free from guilt toward her.</h3>
+<h3 align="center">Go now! Run and hide!</h3>
 
 - Visit my [website](https://mnwanx.github.io) to see my projects!
+- Visit my [Instagram](https://instagram.com/mnwanx)
+- Visit my [Instagram](https://linkedin.com/in/mnwanx)
+- Visit my [TikTok](https://www.tiktok.com/@mnwanx)
 
 
